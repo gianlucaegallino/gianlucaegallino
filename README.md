@@ -11,15 +11,15 @@ Passionate about the world of programming with a strong foundation in C++, HTML,
 
 Skills:
 
-C++/C
-HTML5 & CSS3
-TypeScript/Javascript
-C#
-Java
-Linux
-Spanish (Native)
-English (C2 CEFR Proficient)
-Japanese (N5)
-Basic knowledge of German and Portuguese
+C++/C, 
+HTML5 & CSS3, 
+TypeScript/Javascript, 
+C#, 
+Java, 
+Linux, 
+Spanish (Native), 
+English (C2 CEFR Proficient), 
+Japanese (N5), 
+Basic knowledge of German and Portuguese.
 
-Contact: Feel free to reach out via email at gianlucaegallino@gmail.com, or through LinkedIn messages. I'm open to new opportunities, collaborations, and discussions related to programming and technology.
+Feel free to reach out via email at gianlucaegallino@gmail.com, or through LinkedIn messages. I'm open to new opportunities, collaborations, and discussions related to programming and technology.
