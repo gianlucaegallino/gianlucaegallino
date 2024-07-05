@@ -1,25 +1,16 @@
 ### Hello! I am...
 Gianluca Ezequiel Gallino
-Frontend Developer
 
-🌐 Linkedin: https://www.linkedin.com/in/gianluca-gallino/ | 📧 Email: gianlucaegallino@gmail.com
+As a Software Developer with a passion for OOP Languages and Web Development, I thrive in creating robust solutions that merge innovation with practicality.
 
-🇦🇷 Buenos Aires, Argentina | 🎓 Currently pursuing a degree in Programming at UTN FRGP
+► Developed Management Software for 3 businesses.
 
-Summary:
-Passionate about the world of programming with a strong foundation in C++, HTML, CSS, and TypeScript. As a dedicated student at UTN FRGP, I'm on my journey to becoming a professional developer. Native in spanish, fluent in English (Cambridge C2) and with skills in the Japanese language (N5), I bring a global perspective to my work. Im eager to collaborate and learn in the tech industry.
+► Completed courses and certificates at universities such as Harvard and UTN.
 
-Skills:
+► Published a Free and Open-Source Chrome Extension.
 
-C++/C, 
-HTML5 & CSS3, 
-TypeScript/Javascript, 
-C#, 
-Java, 
-Linux, 
-Spanish (Native), 
-English (C2 CEFR Proficient), 
-Japanese (N5), 
-Basic knowledge of German and Portuguese.
+Fluent in C2 Proficient English, with native proficiency in Spanish and basic Japanese language skills, I excel in multicultural and diverse team environments.
 
-Feel free to reach out via email at gianlucaegallino@gmail.com, or through LinkedIn messages. I'm open to new opportunities, collaborations, and discussions related to programming and technology.
+Specialties: C# .NET, Java, and TypeScript.
+
+Contact me at gianlucaegallino@gmail.com.
